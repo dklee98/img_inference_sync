@@ -1,0 +1,4 @@
+std_msgs/Header header
+std_msgs/Float32MultiArray bbox
+std_msgs/Float32MultiArray feat0
+std_msgs/Float32MultiArray feat1
